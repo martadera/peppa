@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/peppa/static/js/main.b947e66b.chunk.js",
+    "main.js.map": "/peppa/static/js/main.b947e66b.chunk.js.map",
+    "runtime-main.js": "/peppa/static/js/runtime-main.24d91118.js",
+    "runtime-main.js.map": "/peppa/static/js/runtime-main.24d91118.js.map",
+    "static/css/2.764ccc25.chunk.css": "/peppa/static/css/2.764ccc25.chunk.css",
+    "static/js/2.46458ad5.chunk.js": "/peppa/static/js/2.46458ad5.chunk.js",
+    "static/js/2.46458ad5.chunk.js.map": "/peppa/static/js/2.46458ad5.chunk.js.map",
+    "index.html": "/peppa/index.html",
+    "precache-manifest.ef7036e1f18fac5f5116f9a99b6e9f12.js": "/peppa/precache-manifest.ef7036e1f18fac5f5116f9a99b6e9f12.js",
+    "service-worker.js": "/peppa/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/peppa/static/css/2.764ccc25.chunk.css.map",
+    "static/js/2.46458ad5.chunk.js.LICENSE": "/peppa/static/js/2.46458ad5.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24d91118.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.46458ad5.chunk.js",
+    "static/js/main.b947e66b.chunk.js"
+  ]
+}
