@@ -22,7 +22,7 @@ const AppTable: FunctionComponent = () => {
     }
 
     checkNumbers(table)
-console.log(table)
+
     const clickCart = (e: Event): void => {
         activeCard = e.currentTarget as HTMLElement
         activeCard.classList.remove('hidden')
