@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "986e4bb09ab9575d3b83e9e1df99f169",
+    "revision": "1b9ba331ae250b11d6ee9ee4c3d3ccf8",
     "url": "/peppa/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/peppa/static/js/2.46458ad5.chunk.js.LICENSE"
   },
   {
-    "revision": "74e3ab7042ea8bf9435d",
-    "url": "/peppa/static/js/main.b947e66b.chunk.js"
+    "revision": "78474ffa356d5f240a06",
+    "url": "/peppa/static/js/main.b688ae43.chunk.js"
   },
   {
     "revision": "cfcc4be7563f807788e7",
