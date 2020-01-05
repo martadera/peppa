@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/peppa/static/js/main.062e621c.chunk.js",
-    "main.js.map": "/peppa/static/js/main.062e621c.chunk.js.map",
+    "main.js": "/peppa/static/js/main.98788d5a.chunk.js",
+    "main.js.map": "/peppa/static/js/main.98788d5a.chunk.js.map",
     "runtime-main.js": "/peppa/static/js/runtime-main.24d91118.js",
     "runtime-main.js.map": "/peppa/static/js/runtime-main.24d91118.js.map",
     "static/css/2.764ccc25.chunk.css": "/peppa/static/css/2.764ccc25.chunk.css",
     "static/js/2.46458ad5.chunk.js": "/peppa/static/js/2.46458ad5.chunk.js",
     "static/js/2.46458ad5.chunk.js.map": "/peppa/static/js/2.46458ad5.chunk.js.map",
     "index.html": "/peppa/index.html",
-    "precache-manifest.c68cefc84b6190dd5f7e0b2d54c14e4c.js": "/peppa/precache-manifest.c68cefc84b6190dd5f7e0b2d54c14e4c.js",
+    "precache-manifest.95f7de034be7a4518597af3a61b6acb4.js": "/peppa/precache-manifest.95f7de034be7a4518597af3a61b6acb4.js",
     "service-worker.js": "/peppa/service-worker.js",
     "static/css/2.764ccc25.chunk.css.map": "/peppa/static/css/2.764ccc25.chunk.css.map",
     "static/js/2.46458ad5.chunk.js.LICENSE": "/peppa/static/js/2.46458ad5.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.24d91118.js",
     "static/css/2.764ccc25.chunk.css",
     "static/js/2.46458ad5.chunk.js",
-    "static/js/main.062e621c.chunk.js"
+    "static/js/main.98788d5a.chunk.js"
   ]
 }
