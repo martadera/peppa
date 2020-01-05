@@ -12,11 +12,11 @@ const AppTable: FunctionComponent = () => {
     const cardPairs: HTMLElement[] = []
 
     const checkNumbers = (tab: string[]) => {
-        const getRandomInt: number = Math.floor(Math.random() * 10)
+        const getRandomInt: number = Math.floor(Math.random() * 8)
         if (tab.filter((el: string) => el === `./images/peppa${getRandomInt}.jpg`).length < 2) {
             table.push(`./images/peppa${getRandomInt}.jpg`)
             checkNumbers(table)
-        } else if (tab.length < 20) {
+        } else if (tab.length < 16) {
             checkNumbers(table)
         }
     }
@@ -78,8 +78,8 @@ const Container = styled.div`
 display: flex;
 margin: auto;
 flex-wrap: wrap;
-width: 500px;
-
+min-width: 320px;
+max-width: 860px;
 `
 
 export default AppTable

@@ -16,6 +16,7 @@ const App: React.FC = () => {
 const Title = styled.h1`
 color: #DB7093;
 text-align: center;
+font-size: 26px;
 `
 
 export default App;
