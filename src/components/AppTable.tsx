@@ -13,8 +13,8 @@ const AppTable: FunctionComponent = () => {
 
     const checkNumbers = (tab: string[]) => {
         const getRandomInt: number = Math.floor(Math.random() * 10)
-        if (tab.filter((el: string) => el === `public/images/peppa${getRandomInt}.jpg`).length < 2) {
-            table.push(`public/images/peppa${getRandomInt}.jpg`)
+        if (tab.filter((el: string) => el === `./images/peppa${getRandomInt}.jpg`).length < 2) {
+            table.push(`./images/peppa${getRandomInt}.jpg`)
             checkNumbers(table)
         } else if (tab.length < 20) {
             checkNumbers(table)
